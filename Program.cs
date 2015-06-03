@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using GAF;
 using GAF.Operators;
 
-//binary f6 function
+
 namespace genetyka
 {
     class Program
