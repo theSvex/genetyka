@@ -1,0 +1,7 @@
+c:\users\comarch\documents\visual studio 2013\Projects\genetyka\genetyka\bin\Debug\genetyka.exe.config
+c:\users\comarch\documents\visual studio 2013\Projects\genetyka\genetyka\obj\Debug\genetyka.csprojResolveAssemblyReference.cache
+c:\users\comarch\documents\visual studio 2013\Projects\genetyka\genetyka\bin\Debug\genetyka.exe
+c:\users\comarch\documents\visual studio 2013\Projects\genetyka\genetyka\bin\Debug\genetyka.pdb
+c:\users\comarch\documents\visual studio 2013\Projects\genetyka\genetyka\obj\Debug\genetyka.exe
+c:\users\comarch\documents\visual studio 2013\Projects\genetyka\genetyka\obj\Debug\genetyka.pdb
+C:\Users\Comarch\documents\visual studio 2013\Projects\genetyka\genetyka\bin\Debug\GAF.dll
